@@ -1,0 +1,51 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+נטורופתיה לאיזון הורמונלי טבעי עם נעמית דגן — מרפאה הוליסטית לנשים בכל מעגלי החיים. PCOS, פוריות, גיל המעבר — הגוף שלך מחכה לתנאים הנכונים.
+
+### אודות
+https://example.com/about
+נעמית דגן, נטורופתית וצמחאית קלינית, מאמינה שכל אישה מגיעה לאיזון בדרכה שלה. גלי את הפילוסופיה, הכשרה ולב המרפאה שיחכו לך כאן בחמימות ובסבלנות.
+
+### טיפולים
+https://example.com/treatments
+טיפול טבעי בPCOS צמחי מרפא, רפלקסולוגיה, פרחי באך, שמנים ארומטיים ועוד — תוכנית אישית לאיזון הורמונלי, פוריות וגיל המעבר. גלי מה מחכה לך בפגישה הראשונה.
+
+### מאמרים
+https://example.com/articles
+מאמרים מעמיקים על נטורופתיה, צמחי מרפא להגברת הפוריות, PCOS וגיל המעבר — כתובים מתוך ניסיון קליני אמיתי. כי הבנה היא הצעד הראשון לריפוי.
+
+### צור קשר
+https://example.com/contact
+מוכנה לאיזון הורמונלי טבעי שמתאים בדיוק לך? צרי קשר עם נעמית דגן לתיאום פגישת היכרות — סביבה חמה, אישית וסודית שמחכה רק לך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
